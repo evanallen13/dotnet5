@@ -23,9 +23,6 @@ C:\Users\evana\Desktop\udemy-web-app2\net5GH\net5GH\obj\Debug\net5.0\scopedcss\b
 C:\Users\evana\Desktop\udemy-web-app2\net5GH\net5GH\obj\Debug\net5.0\net5GH.TagHelpers.input.cache
 C:\Users\evana\Desktop\udemy-web-app2\net5GH\net5GH\obj\Debug\net5.0\net5GH.TagHelpers.output.cache
 C:\Users\evana\Desktop\udemy-web-app2\net5GH\net5GH\obj\Debug\net5.0\net5GH.RazorCoreGenerate.cache
-C:\Users\evana\Desktop\udemy-web-app2\net5GH\net5GH\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
-C:\Users\evana\Desktop\udemy-web-app2\net5GH\net5GH\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
-C:\Users\evana\Desktop\udemy-web-app2\net5GH\net5GH\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
 C:\Users\evana\Desktop\udemy-web-app2\net5GH\net5GH\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\Users\evana\Desktop\udemy-web-app2\net5GH\net5GH\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\evana\Desktop\udemy-web-app2\net5GH\net5GH\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
@@ -38,3 +35,4 @@ C:\Users\evana\Desktop\udemy-web-app2\net5GH\net5GH\obj\Debug\net5.0\ref\net5GH.
 C:\Users\evana\Desktop\udemy-web-app2\net5GH\net5GH\obj\Debug\net5.0\net5GH.pdb
 C:\Users\evana\Desktop\udemy-web-app2\net5GH\net5GH\obj\Debug\net5.0\net5GH.genruntimeconfig.cache
 C:\Users\evana\Desktop\udemy-web-app2\net5GH\net5GH\obj\Debug\net5.0\net5GH.csproj.CopyComplete
+C:\Users\evana\Desktop\udemy-web-app2\net5GH\net5GH\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
